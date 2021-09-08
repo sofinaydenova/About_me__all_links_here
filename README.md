@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sofnayd@gmail.com 
 - 😄 Pronouns: Sofi
 - ⚡ Fun fact: I'm a painter https://www.instagram.com/sofinaydenova/
+- CODEACADEMY PROFILE HERE https://www.codecademy.com/profiles/sofinaydenova
 -->
