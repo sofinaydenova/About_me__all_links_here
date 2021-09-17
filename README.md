@@ -3,6 +3,8 @@
 <!--
 **sofinaydenova/sofinaydenova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+!!!DONATE!!! https://ko-fi.com/sofinaydenova !!!DONATE!!!
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on games in Unity (made using C#) check 'em out: https://happydoggostudio.itch.io ✨
@@ -14,4 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Sofi
 - ⚡ Fun fact: I'm a painter https://www.instagram.com/sofinaydenova/
 - CODEACADEMY PROFILE HERE https://www.codecademy.com/profiles/sofinaydenova
+
+!!!DONATE!!! https://ko-fi.com/sofinaydenova !!!DONATE!!!
 -->
